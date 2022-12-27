@@ -1,0 +1,40 @@
+,sentence,sentiment
+0,"['shall', 'yet', 'be', 'glad', 'for', 'him', ',', 'and', 'he', 'shall', 'bless']",1
+1,"['(', 'if', 'haply', 'the', 'dark', 'will', 'of', 'fate']",0
+2,"['when', 'the', 'brow', 'is', 'cold', 'as', 'the', 'marble', 'stone', ',']",0
+3,"['taking', 'and', 'giving', 'radiance', ',', 'and', 'the', 'slopes']",1
+4,"['press', 'hard', 'the', 'hostile', 'towers', '!']",0
+5,"['and', 'ever', 'the', 'rocks', ""'"", 'disdain', ';']",0
+6,"['let', 'fall', 'on', 'her', 'a', 'rose', '-', 'leaf', 'rain', 'of', 'dreams', ',']",1
+7,"['alas', '!']",1
+8,"['their', 'right', 'to', 'joy', 'is', 'plain', '.']",1
+9,"['alone', 'went', 'the', 'fair', '-', 'armed', 'gudrun', 'to', 'her', 'flowery', 'garden', '-', 'close', ';']",1
+10,"['lift', 'up', 'the', 'favour', 'of', 'thy', ""count'nance"", 'bright', '.']",1
+11,"['all', 'passionate', '-', 'sweet', ',', 'as', 'are', 'the', 'loving', 'beams']",1
+12,"['which', ""'"", 'mongst', 'the', 'wanton', 'gods', 'a', 'foul', 'reproach', 'was', 'held', '.']",0
+13,"['nor', 'can', 'express', 'the', 'love', 'it', 'knew', ',']",0
+14,"['or', 'dying', 'wail', '!']",0
+15,"[""turn'd"", 'back', 'the', 'shafts', ',', 'and', ""mock'd"", 'the', 'gates', 'of', 'death', ',']",0
+16,"['whose', 'voices', ',', 'hushed', ',', 'have', 'left', 'our', 'pathway', 'lonely', ',']",0
+17,"['on', 'us', 'lift', 'up', 'the', 'light']",1
+18,"['fix’d', 'on', 'the', 'walls', 'with', 'wonder', 'and', 'surprise', ',']",1
+19,"['i', 'kin', 'eat', 'in', 'peace', '.']",1
+20,"['in', 'yonder', 'green', 'meadow', ',', 'to', 'memory', 'dear', ',']",1
+21,"['this', 'hot', ',', 'sick', 'air', '!']",0
+22,"['and', 'how', 'i', 'covet', 'here']",0
+23,"['abominations', ';', 'and', 'with', 'cursed', 'things']",0
+24,"['how', 'the', 'white', 'mountain', '-', 'tops', 'distinctly', 'shine', ',']",1
+25,"['willis', 'sneered', ':']",0
+26,"['and', 'ever', 'a', 'thrill', 'in', 'mine', 'inmost', 'heart']",1
+27,"['still', 'in', 'hot', 'and', 'heavy', 'splashes', 'fell', 'the', 'tears', 'on', 'every', 'leaf', '.']",0
+28,"['strong', 'tarchon', 'snatch’d', 'and', 'bore', 'away', 'his', 'prize', '.']",1
+29,"['and', 'at', 'my', 'door', 'they', 'cower', 'and', 'die', '.']",0
+30,"['weak', ',', 'timid', ',', 'homesick', ',', 'slow', 'to', 'understand']",0
+31,"['but', 'no', 'tidings', 'thread', 'the', 'gloom', ',']",0
+32,"['nor', 'looks', 'on', 'that', 'dread', 'place']",0
+33,"['from', 'the', 'hushed', 'and', 'silent', 'tomb', '.']",0
+34,"['two', 'mighty', 'cities', 'shone', ',', 'and', 'ever']",1
+35,"['with', 'the', 'freedom', 'of', 'lakes', 'and', 'lands', '.']",1
+36,"['so', 'generous', 'to', 'me', '.']",1
+37,"['farewell', ',', 'friend', ',', 'since', 'friend']",1
+38,"['let', 'me', 'all', 'risk', ',', 'and', 'leave', 'the', 'deep', 'heart', 'dumb']",0

@@ -1,0 +1,299 @@
+,sentence,sentiment
+0,"['with', 'pale', 'blue', 'berries', '.']",1
+1,"['in', 'these', 'peaceful', 'shades--']",1
+2,"['and', 'that', 'is', 'why', ',', 'the', 'lonesome', 'day', ',']",0
+3,"['and', 'so', 'on', '.']",0
+4,"['then', 'a', 'worthless', 'gaud', 'or', 'two', ',']",0
+5,"['that', 'has', 'a', 'charmingly', 'bourbon', 'air', '.']",1
+6,"['sounded', ""o'er"", 'earth', 'and', 'sea', 'its', 'blast', 'of', 'war', ',']",0
+7,"['brightly', 'expressive', 'as', 'the', 'twins', 'of', 'leda', ',']",1
+8,"['in', 'monumental', 'pomp', '!']",1
+9,"['no', 'grecian', 'drop']",1
+10,"['want', 'and', 'woe', ',', 'which', 'torture', 'us', ',']",0
+11,"['an', 'echo', 'returned', 'on', 'the', 'cold', 'gray', 'morn', ',']",0
+12,"['while', 'i', ',', '...', 'i', 'built', 'up', 'follies', 'like', 'a', 'wall']",0
+13,"['ah', ',', 'what', 'a', 'pang', 'of', 'aching', 'sharp', 'surprise']",0
+14,"['and', 'the', 'old', 'swallow', '-', 'haunted', 'barns,--']",0
+15,"['the', 'which', 'she', 'bearing', 'home', 'it', 'burned', 'her', 'nest', ',']",0
+16,"['the', 'crown', 'of', 'sorrow', 'on', 'their', 'heads', ',', 'their', 'loss']",0
+17,"['and', 'lips', 'where', 'heavenly', 'smiles', 'would', 'hang', 'and', 'blend']",1
+18,"['i', 'lay', 'and', 'watched', 'the', 'lonely', 'gloom', ';']",0
+19,"['honour', 'to', 'the', 'bugle', '-', 'horn', '!']",1
+20,"['a', 'sceptre,--monstrous', ',', 'winged', ',', 'intolerable', '.']",0
+21,"['if', 'the', 'pure', 'and', 'holy', 'angels']",1
+22,"['upon', 'the', 'thought', 'of', 'perfect', 'noon', '.']",1
+23,"['and', 'when']",1
+24,"['thy', 'hands', 'all', 'cunning', 'arts', 'that', 'women', 'prize', '.']",1
+25,"['reasoning', 'to', 'admiration', ',', 'and', 'with', 'mee']",1
+26,"['while', 'the', 'rude', 'winds', 'blow', 'off', 'each', 'shadowy', 'crown', '.']",0
+27,"['but', 'o', ',', 'nevermore', 'can', 'we', 'prison', 'him', 'tight', '.']",0
+28,"['it', 'shines', 'superior', 'on', 'a', 'throne', 'of', 'gold', ':']",1
+29,"['may', 'meditate', 'a', 'whole', 'youth', ""'s"", 'loss', ',']",0
+30,"['when', 'thee', ',', 'the', 'eyes', 'of', 'that', 'harsh', 'long', 'ago']",0
+31,"['the', 'foes', 'inclosing', ',', 'and', 'his', 'friend', 'pursued', ',']",0
+32,"['take', 'the', 'warm', 'welcome', 'of', 'new', 'friends', 'with', 'thee', ',']",1
+33,"['augmented', ',', 'sweet', ',', 'a', 'hundred', 'fold']",1
+34,"['and', 'bow', 'to', 'dread', 'inquisitor', 'and', 'worship', 'lords', 'of', 'dust', ';']",0
+35,"['miles', 'off', ',', 'three', 'dangerous', 'miles', ',', 'is', 'home', ';']",0
+36,"['every', 'day', 'a', 'rich', 'reward', 'will', 'give', ';']",1
+37,"['else', ',', 'suffer’d', ',', 'it', 'will', 'set', 'the', 'heart', 'on', 'fire', ',']",0
+38,"['gay', 'little', 'heart', '!']",1
+39,"['among', 'the', 'sources', 'of', 'thy', 'glorious', 'streams', ',']",1
+40,"['what', 'gods', ',', 'what', 'madness', ',', 'hither', 'steer’d', 'your', 'course', '?']",0
+41,"['it', 'spoils', 'me', 'for', 'the', 'smiling', 'of', 'the', 'rest', '’', '—']",1
+42,"['that', 'wisdom', ""'s"", 'lips', 'seemed', 'borrowing', 'friendship', ""'s"", 'heart', '.']",1
+43,"['when', 'the', 'glance', 'hast', 'lost', 'its', 'beam', ';']",0
+44,"['best', 'gems', 'of', 'nature', ""'s"", 'cabinet', ',']",1
+45,"['in', 'the', 'shadow', 'of', 'the', 'shores', ';', 'as', 'dead', 'leaves', 'wake', ',']",0
+46,"['the', 'blessed', 'memory', 'of', 'thy', 'worth']",1
+47,"['a', 'million', 'torches', 'lighted', 'by', 'thy', 'hand']",1
+48,"['thy', 'sleep', 'makes', 'ridiculous', '.']",0
+49,"['whose', 'potent', 'unity', 'and', 'concentric', 'force']",1
+50,"['mine', 'eyes', 'were', 'of', 'their', 'madness', 'half', 'beguiled', ',']",0
+51,"['you', 'sha', ""'"", ""n't"", 'roll', 'yo', ""'"", 'eyes', 'at', 'me', '.']",0
+52,"['mine', 'are', 'calm', 'and', 'tranquil', 'days', ',']",1
+53,"['from', 'flight', ',', 'seditious', 'angel', ',', 'to', 'receave']",0
+54,"['thy', 'merited', 'reward', ',', 'the', 'first', 'assay']",1
+55,"['uttering', 'bare', 'truth', ',', 'even', 'so', 'as', 'foes', 'commend', '.']",1
+56,"['afar', 'the', 'melancholy', 'thunder', 'moaned', ',']",0
+57,"['their', 'hate', ',', 'and', 'selfishness', ',', 'and', 'pride', '!']",0
+58,"['and', 'sorrowful', 'to', '-', 'day', ',', 'thy', 'children', 'set']",0
+59,"['save', 'for', 'a', 'cry', 'that', 'echoes', 'shrill']",0
+60,"['with', 'its', 'close', '-', 'curling', 'gold', ',', 'and', 'love', 'revived', '.']",1
+61,"['from', 'her', 'stately', 'place', 'on', 'high', '.']",1
+62,"['sweet', 'hope', '!']",1
+63,"['the', 'adulterate', 'death', 'of', 'lucrece', 'and', 'her', 'groom', '.']",0
+64,"['to', 'accomplish', 'suicide', '.']",0
+65,"['each', 'by', 'his', 'fiery', 'torture', 'howl', 'and', 'rave', ',']",0
+66,"['is', 'lovely', 'round', ';', 'a', 'beautiful', 'river', 'there']",1
+67,"['take', 'heed', '(', 'dear', 'heart', ')', 'of', 'this', 'large', 'privilege', ',']",1
+68,"['at', 'once', 'comes', 'tumbling', 'down', 'the', 'rocky', 'wall', ';']",0
+69,"['sat', 'mournfully', 'guarding', 'their', 'corpses', 'there', ',']",0
+70,"['twas', 'when', 'you', 'stole', 'my', 'maidenhead', ';']",0
+71,"['the', 'king', 'ordains', 'their', 'entrance', ',', 'and', 'ascends']",1
+72,"['flood', 'his', 'black', 'hearthstone', 'till', 'its', 'flames', 'expire', ',']",0
+73,"['the', 'climax', 'of', 'those', 'hopes', 'and', 'duties', 'dear']",1
+74,"['strove', 'to', 'raise', 'itself', 'in', 'blessing', ',']",1
+75,"['full', 'of', 'the', 'calm', 'that', 'cometh', 'after', 'sleep', ':']",1
+76,"['men', 'said', ',', 'into', 'a', 'smile', 'which', 'guile', 'portended', ',']",0
+77,"['deaf', ',', 'and', 'dumb', ',', 'and', 'blind', ',', 'and', 'cold', ',']",0
+78,"['ran', 'ever', 'clearer', 'speech', 'than', 'that', 'did', 'run']",1
+79,"['the', 'visual', 'nerve', 'is', 'withered', 'to', 'the', 'root', ',']",0
+80,"['there', 'is', 'nothing', 'to', 'hope', 'for', ',', 'i', 'am', 'tired', ',']",0
+81,"['have', 'seen', 'the', 'danger', 'which', 'i', 'dared', 'not', 'look']",0
+82,"['on', 'to', 'their', 'shining', 'goals:--']",1
+83,"['glory', 'might', 'burst', 'on', 'us', '!']",1
+84,"['all', 'foredoomed', 'to', 'melt', 'away', ';']",0
+85,"['a', 'spirit', 'of', 'unresting', 'flame', ',']",1
+86,"['but', 'thrown', 'in', 'a', 'heap', 'with', 'a', 'crush', 'and', 'a', 'clatter', ';']",0
+87,"[""o'er"", 'sweet', 'profounds', 'where', 'only', 'love', 'can', 'see', '.']",1
+88,"['with', 'peace', 'and', 'soft', 'rapture', 'shall', 'teach', 'life', 'to', 'glow', ',']",1
+89,"['but', 'thy', 'tranquil', 'waters', 'teach']",1
+90,"['science', 'and', 'song', ',', 'and', 'all', 'the', 'arts', 'that', 'please', ';']",1
+91,"['a', 'graciousness', 'in', 'giving', 'that', 'doth', 'make']",1
+92,"['most', 'beauteous', 'isadore', '!']",1
+93,"['but', 'homesick', 'tears', 'would', 'fill', 'the', 'eyes']",0
+94,"['already', ',', 'land', '!']",1
+95,"['thou', 'hast', 'declared', ':', ' ', ""'"", 'tis', 'done', '.']",1
+96,"['of', 'course', 'throw', 'monstrous', 'shadows', ':', 'those', 'who', 'think']",0
+97,"['their', 'country', 'free', 'and', 'joyous--']",1
+98,"['the', 'mad', 'briareus', 'of', 'disunion', 'rise', ',']",0
+99,"['i', 'see', 'them', 'torn', 'by', 'gallic', 'guns', ',']",0
+100,"['thou', ""feel'st"", 'it', 'burning', ',', 'in', 'and', 'in,--and', 'fear']",0
+101,"['your', 'paynim', 'heroes', 'faster', 'ride']",1
+102,"['but', 'all', 'of', 'them', 'are', 'bad', 'enough']",0
+103,"['look', 'down', 'the', 'shining', 'peaks', 'of', 'all', 'my', 'days']",1
+104,"['tinkle', ',', 'tinkle', ',', 'sweetly', 'it', 'sung', 'to', 'us', ',']",1
+105,"['has', 'it', 'become', 'to', 'thee', 'a', 'labyrinth', 'never', 'ending', ',']",0
+106,"['on', 'her', 'changed', 'world', 'of', 'ruin', ',', 'waste', 'and', 'wrack', ',']",0
+107,"['for', 'her', 'this', 'rhyme', 'is', 'penned', ',', 'whose', 'luminous', 'eyes', ',']",1
+108,"['like', 'morning', 'glory']",1
+109,"['kneeling', ""ne'er"", 'spoiled', 'silk', 'stockings', ';', 'quit', 'thy', 'state', ';']",0
+110,"['shine', 'knightly', 'star', 'and', 'plume', 'of', 'snow', '?']",1
+111,"['from', 'earth', ',', 'with', 'the', 'waters', 'of', 'pain', '.']",0
+112,"['is', 'writ', 'in', 'moods', 'and', 'frowns', 'and', 'wrinkles', 'strange', '.']",0
+113,"['good', 'ringers', ',', 'pull', 'your', 'best', ',', '""', 'quoth', 'he', '.']",1
+114,"['those', 'cobweb', 'nerves', 'he', 'could', 'not', 'dull', 'within', '.']",0
+115,"['here', 'those', 'that', 'in', 'the', 'rapid', 'course', 'delight', ',']",1
+116,"['and', 'never', 'be', 'forgot', 'in', 'mighty', 'rome']",1
+117,"['fooled', 'with', 'your', 'promises', ',']",0
+118,"['thy', 'mission', 'to', 'a', 'world', 'of', 'woe', '.']",0
+119,"['and', 'call', 'that', 'brilliant', 'flower', 'the', 'painted', 'cup', '.']",1
+120,"['our', 'frowning', 'foemen', 'of', 'the', 'night']",0
+121,"['and', 'bright', 'in', 'heaven', ""'s"", 'jewelled', 'crown']",1
+122,"['when', ',', 'dreadful', 'to', 'behold', ',', 'from', 'sea', 'we', 'spied']",0
+123,"['halcyons', 'of', 'memory', ',']",1
+124,"['hale', 'as', 'the', 'morn', 'and', 'happy', 'as', 'her', 'song', '.']",1
+125,"['some', 'moment', ',', 'nailed', 'on', 'sorrow', ""'s"", 'cross', ',']",0
+126,"['and', 'in', 'the', 'air', ',', 'her', 'new', 'voice', 'luting', 'soft', ',']",1
+127,"['with', 'sincerest', 'conviction', 'their', 'chairs', 'to', 'the', 'shore', ';']",1
+128,"['the', 'sundown', ""'s"", 'golden', 'trail', '?']",1
+129,"['“', 'the', 'nymph', ',', 'who', 'scatters', 'flaming', 'fires', 'around', ',']",0
+130,"['thus', 'farr', 'to', 'try', 'thee', ',', 'adam', ',', 'i', 'was', ""pleas'd"", ',']",1
+131,"['swifter', 'far', 'than', 'youth', ""'s"", 'delight--']",1
+132,"['for', ""'"", 'twas', ""e'en"", 'as', 'a', 'great', 'god', ""'s"", 'slaying', ',', 'and', 'they', 'feared', 'the', 'wrath', 'of', 'the', 'sky', ';']",0
+133,"['and', 'i', ""'ve"", 'been', 'like', 'that', 'silly', 'girl', '.']",0
+134,"['to', 'make', 'a', 'body', 'curse', '.']",0
+135,"['and', 'full', 'of', 'wonder', ',', 'full', 'of', 'hope', 'as', 'he', '.']",1
+136,"['were', 'murmuring', 'on', 'the', 'stifling', 'air']",0
+137,"['how', 'poor', 'these', 'pallid', 'phrases', 'seem', ',']",0
+138,"['‘', 'these', 'monsters', ',', 'set', 'out', 'in', 'the', 'open', 'sun', ',']",0
+139,"['before', 'the', 'saintly', 'soul', ',', 'whose', 'human', 'will']",1
+140,"['blindness', 'like', 'that', 'would', 'scare', 'the', 'mole', 'and', 'bat', ',']",0
+141,"['did', 'from', 'the', 'altar', 'steal', 'a', 'smouldering', 'brand', ',']",0
+142,"['is', 'beaten', 'by', 'the', 'winds', ',', 'with', 'foggy', 'vapours', 'bound', '.']",0
+143,"['pride', 'of', 'thy', 'sex', ',', 'miss', 'harriet', 'martineau', '!']",1
+144,"['until', 'the', 'bitter', 'summons', 'fell--']",0
+145,"['in', 'slumber', ';', 'for', 'thine', 'enemy', 'never', 'sleeps', ',']",0
+146,"['the', 'beauty', 'and', 'the', 'joy', 'of', 'their', 'renewed', 'might', '.']",1
+147,"['oh', ',', 'those', 'days', ',', 'so', 'sweet', ',', 'so', 'happy', ',']",1
+148,"['if', 'men', 'are', 'always', 'at', 'a', 'loss']",0
+149,"['and', 'circling', 'wonders', 'fill', 'the', 'vast', 'profound', '.']",1
+150,"['""', 'play', 'uppe', ',', 'play', 'uppe', ',', 'o', 'boston', 'bells', '!']",1
+151,"['with', 'warning', 'cough', 'and', 'threatening', 'wheeze']",0
+152,"['daily', 'struggling', ',', 'though', 'unloved', 'and', 'lonely', ',']",0
+153,"['honour', 'to', 'the', 'old', 'bow', '-', 'string', '!']",1
+154,"['how', 'heavy', 'it', 'seemed', '!']",0
+155,"['as', 'heavy', 'as', 'a', 'stone', ';']",0
+156,"['thou', 'too', 'art', 'victor', ',', 'rochambeau', '!']",1
+157,"['heart', 'as', 'though', 'with', 'ashes', 'blending', ';']",0
+158,"['passing', 'to', 'lap', 'thy', 'waters', ',', 'crushed', 'the', 'flower']",0
+159,"['ay', ',', 'knelt', 'and', 'worshipped', 'on', ',', 'as', 'love', 'in', 'beauty', ""'s"", 'bower', ',']",1
+160,"['feel', 'the', 'pulses', 'of', 'the', 'brave']",1
+161,"['sparked', 'a', 'ruby', 'through', 'its', 'heart', ',']",1
+162,"['beneath', 'thy', 'gracious', 'feet', '!']",1
+163,"['his', 'hand', 'the', 'captive', ""'s"", 'fetters', 'broke', ',']",0
+164,"['got', 'the', 'ill', 'name', 'of', 'augurs', ',', 'because', 'they', 'were', 'bores', ',', '—', ')']",0
+165,"['and', 'tender', 'thoughts', ',', 'and', 'prayers', ',', 'remains', ',']",1
+166,"['then', 'thro', '’', 'his', 'breast', 'his', 'fatal', 'sword', 'he', 'sent', ',']",0
+167,"['seed', '-', 'field', 'of', 'simpler', 'manners', ',', 'braver', 'truth', ',']",1
+168,"['the', 'pain', 'when', 'it', 'did', 'live', ',']",0
+169,"['soft', ',', 'discontented', 'eyes', '!']",0
+170,"['and', 'the', 'rude', 'people', 'rage', 'with', 'ignorant', 'cries']",0
+171,"['""', 'o', 'lord', ',', 'that', 'didst', 'smother', 'mankind', 'in', 'thy', 'flood', ',']",0
+172,"['is', 'this', 'a', 'time', 'to', 'be', 'cloudy', 'and', 'sad', ',']",0
+173,"['blood', '-', 'dipped', 'arrows', ',', 'which', 'savages', 'make']",0
+174,"['the', 'moon', 'and', 'the', 'stars', 'were', 'anxious']",0
+175,"['in', 'our', 'embraces', 'we', 'again', 'enfold', 'her', ',']",1
+176,"['robe', 'us', 'once', 'more', 'in', 'heaven', '-', 'aspiring', 'creeds']",1
+177,"['in', 'the', 'twilight', 'of', 'age', 'all', 'things', 'seem', 'strange', 'and', 'phantasmal', ',']",0
+178,"['a', 'wild', 'and', 'stormy', 'sea', ';']",0
+179,"['dark', 'with', 'more', 'clouds', 'than', 'tempests', 'are', ',']",0
+180,"['here', 'comes', 'the', 'cripple', 'jane', '!', '""']",0
+181,"[' ', 'and', 'by', 'a', 'fountain', ""'s"", 'side']",0
+182,"['are', 'angel', 'faces', ',', 'silent', 'and', 'serene', ',']",1
+183,"['swifter', 'was', 'the', 'hunter', ""'s"", 'rowing', ',']",1
+184,"['which', 'goaded', 'him', 'in', 'his', 'distress']",0
+185,"['abloom', 'by', 'sacred', 'streams']",1
+186,"['forelaid', 'and', 'taken', ',', 'while', 'he', 'strove', 'in', 'vain']",0
+187,"['when', 'blighting', 'was', 'nearest', '.']",0
+188,"['pillars', 'by', 'madness', 'multiplied', ';']",0
+189,"['no', 'rest', 'that', 'throbbing', 'slave', 'may', 'ask', ',']",0
+190,"[""o'er"", 'time', ""'s"", 'delusive', 'tide', '.']",0
+191,"['no', 'word', 'for', 'a', 'while', 'spake', 'regin', ';', 'but', 'he', 'hung', 'his', 'head', 'adown']",0
+192,"['envy', 'and', 'calumny', 'and', 'hate', 'and', 'pain', ',']",0
+193,"['and', 'murmured', 'a', 'strange', 'and', 'solemn', 'air', ';']",0
+194,"['taught', 'by', 'the', 'sorrows', 'that', 'his', 'age', 'had', 'known']",0
+195,"['the', 'china', 'dustless', ',', 'the', 'keen', 'knife', '-', 'blades', 'bright', ',']",1
+196,"['an', 'honest', 'tongue', 'may', 'drop', 'a', 'harmless', 'hint', '.']",1
+197,"['playmates', ""'"", 'glad', 'symphony', '.']",1
+198,"['her', 'lion', '-', 'port', ',', 'her', 'awe', '-', 'commanding', 'face', ',']",1
+199,"['--so', 'they', 'feast', 'in', 'the', 'hall', 'of', 'atli', ',', 'and', 'that', 'eve', 'is', 'the', 'first', 'of', 'the', 'seven', '.']",1
+200,"['let', 'sophists', 'give', 'the', 'lie', ',', 'hearts', 'droop', ',', 'and', 'courtiers', 'play', 'the', 'worm', ',']",0
+201,"['swifter', 'far', 'than', 'happy', 'night', ',']",1
+202,"['by', 'a', 'great', 'master', 'of', 'the', 'past', ',']",1
+203,"['and', 'to', 'the', 'tender', 'heart', 'and', 'brave']",1
+204,"['with', 'the', 'earls', 'of', 'the', 'goths', 'about', 'her', ':', 'so', 'queenly', 'did', 'she', 'seem', ',']",1
+205,"['the', 'fraud', 'of', 'priests', ',', 'the', 'wrong', 'of', 'law', ',']",0
+206,"['around', 'thy', 'place', 'of', 'slumber', 'glowing', '!']",1
+207,"['obliterate', 'the', 'etchings']",0
+208,"['and', 'leaves', 'the', 'world', 'to', 'darkness', 'and', 'to', 'me', '.']",0
+209,"['he', 'bent', 'and', 'kissed', 'her', 'head', ',', 'warm', ',', 'shining', ',', 'soft', ',']",1
+210,"['that', 'satraps', 'would', 'have', 'shivered', 'at', 'his', 'frown', ',']",0
+211,"['harsh', ',', 'featureless', ',', 'and', 'rude', ',', 'barrenly', 'perish', ':']",0
+212,"['and', 'friendship', ""'s"", 'tenderest', 'sympathy']",1
+213,"['my', 'breast', 'was', 'calm', 'as', 'summer', ""'s"", 'sea']",1
+214,"['oblivion', ""'s"", 'blankness', 'claims']",0
+215,"['tormented', 'by', 'the', 'quickened', 'blood', 'of', 'roots', ',']",0
+216,"['with', 'passionate', 'longing', 'burning', ',']",1
+217,"['where', 'the', 'cloudy', 'hangings', 'waver', 'and', 'the', 'flickering', 'shadows', 'fall', ',']",0
+218,"['ah', ',', 'soul', 'of', 'mine', '!']",1
+219,"['so', 'brave', 'and', 'wise']",1
+220,"['left', 'the', 'torn', 'human', 'heart', ',', 'their', 'food', 'and', 'dwelling', '-', 'place', '.']",0
+221,"['his', 'pass', 'to', 'the', 'majestical', 'far', 'shore', '.']",1
+222,"['and', 'virtue', ""'s"", 'bright', 'image', ',', 'enstamped', 'on', 'the', 'mind', ',']",1
+223,"['inexorable', 'death', ';', 'and', 'claims', 'his', 'right', '.']",0
+224,"['trailing', ',', 'wrecked', ',', 'it', 'came', 'to', 'land', ',']",0
+225,"['dead', 'among', 'the', 'shouting', 'people', ',']",0
+226,"['darling', ',', 'the', 'merciful', 'father']",1
+227,"['from', 'the', 'slaughtering', 'of', 'my', 'offspring', ',', 'and', 'the', 'spoiling', 'of', 'my', 'land', ';']",0
+228,"['the', 'soul', 'with', 'sweetness', ',', 'and', 'like', 'an', 'adept']",1
+229,"['no', 'answer', 'came', ';', 'but', 'faint', 'and', 'forlorn']",0
+230,"['and', 'heavy', 'as', 'the', 'dead', '.']",0
+231,"['for', 'suddenly', 'the', 'sweet', 'bells', 'overcame']",1
+232,"['a', 'woman', 'has', 'been', 'strangled', 'with', 'less', 'weight', ':']",0
+233,"['howled', 'through', 'the', 'dark', ',', 'like', 'sounds', 'from', 'hell', '.']",0
+234,"['make', 'a', 'fragrance', 'of', 'her', 'fame', '.']",1
+235,"['thy', 'outward', 'thus', 'with', 'outward', 'praise', 'is', 'crowned', ',']",1
+236,"['troubling', 'with', 'life', 'the', 'waters', 'of', 'the', 'world', '.']",0
+237,"['when', 'our', 'mother', 'nature', 'laughs', 'around', ';']",1
+238,"['and', 'the', 'words', 'which', 'he', 'utters', ',', 'are', '--', 'worship', ',', 'or', 'die', '!']",0
+239,"['rang', 'the', 'beautiful', 'wild', 'chimes']",1
+240,"['the', 'weird', 'pathetic', 'scarlet', 'of', 'day', 'dawning', ',']",0
+241,"['sometimes', 'towards', ""heav'n"", 'and', 'the', 'full', '-', 'blazing', 'sun', ',']",1
+242,"['grander', ',', 'nobler', ',', 'than', 'that', 'pilot']",1
+243,"['but', 'your', 'dead', '-', 'ripe', 'ones', 'ranges', 'high', 'fer', 'treatin', ""'"", 'nothun', 'bretherin', ';']",0
+244,"['so', 'runs', 'the', 'perfect', 'cycle', 'of', 'the', 'year', '.']",1
+245,"['the', 'limpid', 'ocean', 'mirrors', 'all', 'the', 'stars', ',']",1
+246,"['ashes', 'and', 'jet', 'all', 'hues', 'outshine', '.']",1
+247,"['as', 'childhood', ""'s"", 'sweet', 'delight', '.']",1
+248,"['""', 'it', 'is', 'a', 'lie', ',', 'a', 'damned', ',', 'infernal', 'lie', '!', '""']",0
+249,"['and', 'after', 'that', 'the', 'winter', 'cold', 'and', 'drear', '.']",0
+250,"['thus', 'hee', 'in', 'scorn', '.']",0
+251,"['the', 'warlike', 'angel', ""mov'd"", ',']",0
+252,"['lull’d', 'in', 'her', 'lap', ',', 'amidst', 'a', 'train', 'of', 'loves', ',']",1
+253,"['and', 'in', 'a', 'pleasing', 'slumber', 'seals', 'his', 'eyes', ':']",1
+254,"['sweet', 'poesy', 'from', 'heaven']",1
+255,"['his', 'sweeter', 'voice', 'a', 'just', 'accordance', 'kept', '.']",1
+256,"['false', '-', 'faces', 'hung', 'on', 'strings', ',']",0
+257,"['that', 'in', 'their', 'lives', 'such', 'deadly', 'fray', 'they', ""ne'er"", 'had', 'seen', 'before', '.']",0
+258,"['her', 'not', '-', 'nice', 'load', '.']",0
+259,"['i', 'strive', ',', 'i', 'pray', '.']",1
+260,"['the', 'loveliest', 'king', 'of', 'the', 'king', '-', 'folk', ',', 'the', 'man', 'of', 'sweetest', 'speech', ',']",1
+261,"['and', 'fears', 'are', 'added', ',', 'and', 'avenging', 'flame', '.']",0
+262,"['who', 'felt', 'your', 'own', 'thought', 'worthy', 'of', 'record']",1
+263,"['and', 'stiff', 'in', 'fight', ',', 'but', 'serious', 'drill', ""'s"", 'despair', ',']",0
+264,"['till', 'the', 'deaf', 'fury', 'comes', 'your', 'house', 'to', 'sweep', '!', ""'""]",0
+265,"['but', 'now', 'i', 'see', ',', 'most', 'cruell', 'hee', ',']",0
+266,"['on', 'the', 'clear', 'mirror', 'of', 'a', 'loving', 'heart', ',']",1
+267,"['how', 'weak', 'this', 'tinkling', 'line', ',']",0
+268,"['and', 'make', 'the', 'liveliest', 'monkey', 'melancholy', '.']",0
+269,"['and', ',', 'between', 'the', 'river', 'flowing', 'and', 'the', 'fair', 'green', 'trees', 'a', '-', 'growing', ',']",1
+270,"['god', 'prosper', 'long', 'our', 'noble', 'king', ',']",1
+271,"['where', 'the', 'moloch', 'of', 'slavery', 'sitteth', 'on', 'high', ',']",0
+272,"['moonstruck', 'with', 'love', ',', 'and', 'this', 'still', 'thames', 'had', 'heard']",1
+273,"['some', 'thought', 'of', 'me', ',', 'a', 'last', 'fond', 'prayer']",1
+274,"['for', 'wanderings', 'sad', 'and', 'lone', '.']",0
+275,"['""', 'onaway', '!']",1
+276,"['my', 'heart', 'sings', 'to', 'thee', ',']",1
+277,"['our', 'hope', ',', 'our', 'remembrance', ',', 'our', 'trust', ',']",1
+278,"['none', 'will', 'forget', 'it', 'till', 'shall', 'fall', 'the', 'deadly', 'dart', '!']",0
+279,"['forever', 'quivering', ""o'er"", 'his', 'task', ',']",0
+280,"['radiant', 'as', 'moses', 'from', 'the', 'mount', ',', 'he', 'stood']",1
+281,"['wilt', 'thou', 'our', 'lowly', 'beds', 'with', 'tears', 'of', 'pity', 'lave', '?', ""'""]",0
+282,"['and', 'seek', 'the', 'danger', 'i', 'was', 'forc’d', 'to', 'shun', '.']",0
+283,"['down', 'the', 'dark', 'future', ',', 'through', 'long', 'generations', ',']",0
+284,"['but', 'she', 'always', 'ran', 'away', 'and', 'left']",0
+285,"['with', 'such', 'vehement', 'force', 'and', 'might']",0
+286,"['his', 'regal', 'seat', ',', 'surrounded', 'by', 'his', 'friends', '.']",1
+287,"['vain', 'cries', '--', 'throughout', 'the', 'streets', 'thousands', 'pursued']",0
+288,"['and', 'all', 'their', 'echoes', ',', 'mourn', ';']",0
+289,"['yet', 'was', 'this', 'period', 'my', 'time', 'of', 'joy', ':']",1
+290,"['still', 'must', 'mine', ',', 'though', 'bleeding', ',', 'beat', ';']",0
+291,"['their', 'first', '-', 'born', 'brother', 'as', 'a', 'god', '.']",1
+292,"['in', 'town', ',', 'an', ""'"", 'not', 'the', 'leanest', 'runt']",0
+293,"['by', 'death', ""'s"", 'frequented', 'ways', ',']",0
+294,"['rejection', 'of', 'his', 'humanness']",0
+295,"['the', 'one', 'good', 'man', 'in', 'the', 'world', 'who', 'knows', 'me', ',', '--']",1
+296,"['faint', 'voices', 'lifted', 'shrill', 'with', 'pain']",0
+297,"['in', 'the', 'wild', 'glens', 'rough', 'shepherds', 'will', 'deplore']",0
