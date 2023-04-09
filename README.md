@@ -17,7 +17,7 @@ Other dependencies include `qujax`, `optax`, `pandas`, `matplotlib`, `jax` and `
 
 You can see a full usage example in [`training_example.ipynb`](training_example.ipynb). 
 
-A tokenised version of the [poem sentiment dataset](https://github.com/google-research-datasets/poem-sentiment) is provided in the [poem_sentiment](poem_sentiment) folder as a toy example for training. For simplicity, all but the positive (here labeled with a 1) and negative (here labeled with a 0) examples have been removed. Note that this processed version of the dataset is distributed under the same [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) as the original, and this license differs from the rest of this repository.
+A tokenised version of the [poem sentiment dataset](https://github.com/google-research-datasets/poem-sentiment) is provided in the [poem_sentiment](poem_sentiment) folder for example purposes only. For simplicity, all but the positive (here labeled with a 1) and negative (here labeled with a 0) examples have been removed. Note that this processed version of the dataset is distributed under the same [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) as the original, and this license differs from the rest of this repository.
 
 ## Technical note
 
